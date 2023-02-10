@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/premium-vector/abstract-dark-navy-blue-technology-hexagon-banner-background-futuristic-blue-black-hexagon-background-futuristic-honeycomb-concept-wave-hexagon-vector-illustration_181182-18200.jpg)
+![MasterHead](https://user-images.githubusercontent.com/5330387/183502751-f29645f1-ccb4-408b-be1d-c6ef31649345.png)
 <h1 align="center">Hi 👋, I'm Shriram</h1>
 <h3 align="center">I am a Cloud Enthusiast!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
