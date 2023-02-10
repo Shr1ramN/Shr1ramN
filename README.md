@@ -1,4 +1,3 @@
-![MasterHead](https://retool.com/blog/content/images/2022/02/gotchas-git-github-banner-1.png)
 <h1 align="center">Hi 👋, I'm Shriram</h1>
 <h3 align="center">I am a Cloud Enthusiast!</h3>
 
