@@ -1,9 +1,9 @@
 <h1 align="center">Hey I'm Shriram!
-<h3 align="center">Cloud Enthusiast 😶‍🌫️</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <a href="https://twitter.com/shr1ram_n" target="blank"><img src="https://img.shields.io/twitter/follow/shr1ram_n?logo=twitter&style=for-the-badge" alt="shr1ram_n" /></a> </p>
 
-- 🌱 Aquiring knowledge in **Salesforce**
+- 🌱 Aquiring knowledge
 - 📫 **shriramnarayanabhat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
