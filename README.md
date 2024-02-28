@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/shr1ram_n" target="blank"><img src="https://img.shields.io/twitter/follow/shr1ram_n?logo=twitter&style=for-the-badge" alt="shr1ram_n" /></a> </p>
 
-- 📫 **shriramnarayanabhat@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shr1ram_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shr1ram_n" height="30" width="40" /></a>
